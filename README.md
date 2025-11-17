@@ -24,4 +24,9 @@ All Tasks and Homework from the Node.js course
     <td>Task 3</td>
     <td>4/11/2025</td>
   </tr>
+  <tr>
+  <td>BookHW</td>
+  <td>תרגיל בית</td>
+  <td>17/11/2025</td>
+  </tr>
 </table>
