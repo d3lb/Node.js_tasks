@@ -39,4 +39,13 @@ All Tasks and Homework from the Node.js course
   <td>Task 4<br>תרגיל בית	7</td>
   <td>25/11/2025</td>
   </tr>
+  <tr>
+  <td rowspan="2">Middleware</td>
+  <td>HW1</td>
+  <td>22/12/2025</td>
+  </tr>
+  <tr>
+  <td>HW2</td>
+  <td>22/12/2025</td>
+  </tr>
 </table>
