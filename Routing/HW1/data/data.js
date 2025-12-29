@@ -12,14 +12,24 @@ const data = {
       price: 500,
       stock: 50,
     },
-    { id: 3, name: "Tablet", price: 300, stock: 30 },
+    {
+      id: 3,
+      name: "Tablet",
+      price: 300,
+      stock: 30,
+    },
     {
       id: 4,
       name: "Headphones",
       price: 100,
       stock: 100,
     },
-    { id: 5, name: "Monitor", price: 200, stock: 25 },
+    {
+      id: 5,
+      name: "Monitor",
+      price: 200,
+      stock: 25,
+    },
   ],
   users: [
     {
@@ -58,3 +68,4 @@ const data = {
 };
 
 module.exports = data;
+
